@@ -1,0 +1,19 @@
+.blogpost > div{
+    display: flex;
+    
+    width: 300px;
+    border: 1px solid black;
+}
+
+.blogpost{
+    display: flex;
+    direction: row;
+    
+}
+
+
+.hond5{
+    display: flex;
+    align-self: center;
+    flex-grow: initial;
+}
